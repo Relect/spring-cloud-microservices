@@ -1,0 +1,17 @@
+/.gradle/
+/.idea/
+/gradlew
+/gradlew.bat
+/gradle/
+/build/
+/account-service/build/
+/bill-service/build/
+/config-service/build/
+/deposit-service/build/
+/gateway/build/
+/notification-service/build/
+/registry/build/
+/account-service/lombok.config
+/bill-servcie/lombok.config
+/deposit-service/lombok.config
+/notification-service/lombok.config
