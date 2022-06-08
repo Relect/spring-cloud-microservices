@@ -12,6 +12,6 @@
 /notification-service/build/
 /registry/build/
 /account-service/lombok.config
-/bill-servcie/lombok.config
+/bill-service/lombok.config
 /deposit-service/lombok.config
 /notification-service/lombok.config
