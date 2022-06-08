@@ -2,7 +2,7 @@ config-service       port **8001**
 registry-service     port **8761**  
 gateway              port **8989**  
 acount-service       port **8081**  
-deposit-serivce      port  
+deposit-serivce      port **9999**
 bill-service         port **8082**  
 notification-service port **9999**   
 
