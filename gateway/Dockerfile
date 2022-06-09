@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:12-jdk-alpine
 EXPOSE 8989
 COPY build/libs/gateway-1.0-SNAPSHOT.jar .
 RUN apk add --no-cache bash

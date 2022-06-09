@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:12-jdk-alpine
 EXPOSE 8081
 COPY build/libs/account-service-1.0-SNAPSHOT.jar .
 RUN apk add --no-cache bash
